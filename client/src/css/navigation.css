@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+
+.landing-page {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 2rem;
+}
+
+.main-welcome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.welcome {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    color: #132540;
+    font-size: 1.5rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.welcome h1 {
+    font-weight: 700;
+    font-size: 5rem;
+}
+.welcome p {
+    margin-top: 2rem;
+}
+.homeButton {
+    color: #f6f6f6;
+    background-color: #302b70;
+    border: none;
+    font-size: large;
+    padding: 3%;
+    border-radius: 8px;
+    margin-top: 1rem;
+}
+.homeButton:hover {
+    color: #f6f6f6;
+    background-color: #787cd1;
+    border: none;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-img {
+    height: 40rem;
+    padding: 2rem;
+}
+
+/* modes */
+#main-choice {
+    margin-top: 5rem;
+}
+.mode-heading {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    color: #132540;
+    font-size: 1.5rem;
+
+    display: flex;
+    align-items: center;
+
+    padding-left: 7%;
+}
+.heading h1 {
+    font-weight: 700;
+    font-size: 4rem;
+}
+.mode-cards{
+    padding-left: 2rem;
+}
+.eachCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.customCard {
+    margin-top: 2rem;
+    background-color: rgb(62, 56, 148, 0.8);
+    border-radius: 20px;
+    color: #f2f3f6;
+    padding-top: 1rem;
+    
+    width: 20rem;
+    height: 20rem;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+#customCardImg{
+    height: 10rem;
+    width: 12rem;
+    align-self: center;
+}
+.choiceButton {
+    color: #302b70;
+    background-color: #f0f2f6;
+    border: none;
+    padding: 3%;
+    border-radius: 8px;    
+}
+.choiceButton:hover {
+    color: #f6f6f6;
+    background-color: #787cd1;
+    border: none;
+}
+.footer {
+    margin-top: 6rem;
+    font-family: 'Montserrat', sans-serif;
+}
