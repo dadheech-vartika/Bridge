@@ -113,12 +113,12 @@ function Mode() {
             {/* Footer */}
             <footer class = "text-center footer">
                 <p> This site is developed by
-                    <a href = "https://www.linkedin.com/in/sonal-kushwaha/" target="_blank">
-                        <span> Sonal Kushwaha </span>
+                    <a href = "https://www.linkedin.com/in/vartika-dadheech-505514191" target="_blank">
+                        <span> Vartika Dadheech </span>
                     </a>
                     <br></br>
-                    <span>Last updated on July 12, 2021</span>
-                    <p> &copy; 2021</p>
+                    <span>Last updated on May 16, 2022</span>
+                    <p> &copy; 2022</p>
                 </p>
             </footer>
 
