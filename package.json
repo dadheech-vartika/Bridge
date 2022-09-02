@@ -1,9 +1,9 @@
 {
-  "name": "MS-Teams",
+  "name": "Bridge",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/sonalsk/MS-Teams.git",
-  "author": "sonalsk <sonalkushwaha039@gmail.com>",
+  "repository": "https://github.com/dadheech-vartika/Bridge.git",
+  "author": "dadheech-vartika vartikadadheech14nov@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
